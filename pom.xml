@@ -11,10 +11,10 @@
 	<groupId>br.com.diniz</groupId>
 	<artifactId>desafio</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>Java Spring Boot API REST Web</name>
-	<description>Project developer in Java Spring Boot Web Aplication JPA - DESAFIO</description>
+	<name>desafio</name>
+	<description>Project developer in Spring Boot API REST - Desafio</description>
 	<properties>
-		<java.version>11</java.version>
+		<java.version>1.8</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
